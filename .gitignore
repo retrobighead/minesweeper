@@ -1,0 +1,6 @@
+.idea
+logs
+models
+
+minesweeper_env/__pycache__
+minesweeper_env/envs/__pycache__
